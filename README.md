@@ -9,8 +9,8 @@ pro jednotlivé vyhledávací přístupy.
 **Termín odevzdání a prezentace:** 7.února 2022
 
 **Seminární práce bude obsahovat** :
-[] Úvodní list s názvem řešeného tématu, členy řešitelského týmu s datem odevzdání
-[] Obsah
-[] Podrobný popis řešené problematiky
-[] Odkazy na GitHub se zdrojovými kódy
-[] Seznam použitých zdrojů citovaných dle normy (nástroj citace.com)
+-[] Úvodní list s názvem řešeného tématu, členy řešitelského týmu s datem odevzdání
+-[] Obsah
+-[] Podrobný popis řešené problematiky
+-[] Odkazy na GitHub se zdrojovými kódy
+-[] Seznam použitých zdrojů citovaných dle normy (nástroj citace.com)
