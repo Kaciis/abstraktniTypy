@@ -1,0 +1,15 @@
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/abstraktniTypy
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/abstraktniTypy.deps.json
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/abstraktniTypy.runtimeconfig.json
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/abstraktniTypy.dll
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/ref/abstraktniTypy.dll
+/home/kacis/PROJECTS/school/abstraktniTypy/bin/Debug/net6.0/abstraktniTypy.pdb
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.csproj.AssemblyReference.cache
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.GeneratedMSBuildEditorConfig.editorconfig
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.AssemblyInfoInputs.cache
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.AssemblyInfo.cs
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.csproj.CoreCompileInputs.cache
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.dll
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/ref/abstraktniTypy.dll
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.pdb
+/home/kacis/PROJECTS/school/abstraktniTypy/obj/Debug/net6.0/abstraktniTypy.genruntimeconfig.cache
